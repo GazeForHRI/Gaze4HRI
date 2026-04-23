@@ -1,5 +1,19 @@
 # Gaze4HRI: A Large-scale Dataset for Gaze Estimation in Human-Robot Interaction (FG 2026)
 
+## Citation
+
+If you find this work useful in your research, please cite our paper:
+
+```bibtex
+@inproceedings{sezer2026gaze4hri,
+  title={Gaze4HRI: Zero-shot Benchmarking Gaze Estimation Neural-Networks for Human-Robot Interaction},
+  author={Sezer, Berk and Küçük, Ali Görkem and Şahin, Erol and Kalkan, Sinan},
+  booktitle={2026 International Conference on Automatic Face and Gesture Recognition (FG)},
+  year={2026},
+  doi={10.5281/zenodo.19710372}
+}
+```
+
 This repository contains the main codebase for the "Gaze4HRI: Zero-shot Benchmarking Gaze Estimation Neural-Networks for Human-Robot Interaction" paper accepted to the 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026). It includes scripts for data collection, dataset creation (HDF5), gaze/blink estimation, and the analysis suites used to generate the results presented in the paper.
 
 ## Content
