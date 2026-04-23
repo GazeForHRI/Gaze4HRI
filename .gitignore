@@ -1,0 +1,8 @@
+__pycache__/*
+.env
+rectified_hri_dataset*
+gaze4hri_debug_dataset*
+slurm*
+wandb/*
+*.txt
+*.log
