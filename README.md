@@ -21,6 +21,8 @@ This repository contains the main codebase for the "Gaze4HRI: Zero-shot Benchmar
 2. Testing a Gaze Model (How we tested and analyzed each gaze model, step by step)
 3. Script Reference (To explain what each script in the codebase does)
 
+Note: We used a second repository called `GazeModels` to run each gaze model. It contains forks of existing open-source gaze model repositories on each branch. Link: https://github.com/GazeForHRI/GazeModels/tree/main
+
 ## 1. Dataset Overview
 
 ### Raw Data Content
