@@ -13,6 +13,7 @@ If you find this work useful in your research, please cite our paper:
   doi={10.5281/zenodo.19710372}
 }
 ```
+You can access the paper on arvix: https://arxiv.org/abs/2605.04770
 
 This repository contains the main codebase for the "Gaze4HRI: Zero-shot Benchmarking Gaze Estimation Neural-Networks for Human-Robot Interaction" paper accepted to the 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026). It includes scripts for data collection, dataset creation (HDF5), gaze/blink estimation, and the analysis suites used to generate the results presented in the paper.
 
