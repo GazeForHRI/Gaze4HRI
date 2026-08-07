@@ -10,7 +10,7 @@ If you find this work useful in your research, please cite our paper:
   author={Sezer, Berk and Küçük, Ali Görkem and Şahin, Erol and Kalkan, Sinan},
   booktitle={2026 International Conference on Automatic Face and Gesture Recognition (FG)},
   year={2026},
-  doi={10.5281/zenodo.19710372}
+  doi={10.1109/FG67764.2026.11557061}
 }
 ```
 You can access the paper on arvix: https://arxiv.org/abs/2605.04770
